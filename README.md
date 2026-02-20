@@ -49,7 +49,7 @@ It contains demographic and employment-related attributes such as:
 
 ### Target Variable
 
-* `income`:
+* income :
 
   * ≤ 50K
   * > 50K
@@ -166,3 +166,4 @@ This notebook was completed as part of the Machine Learning training conducted b
 ## Author
 
 Kavya Garlapati || Developer || [LinkedIn ↗](https://www.linkedin.com/in/kavya-garlapati/)
+
